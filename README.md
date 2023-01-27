@@ -6,7 +6,7 @@ A side-scrolling game featuring a dinosaur, developed using Flutter.
 
 Run Project Clone the repository
 ```
-https://github.com/amitamrutiya2210/Pac_Man
+https://github.com/amitamrutiya2210/dianoser_game
 ```
 Install the dependencies
 ```
