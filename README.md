@@ -4,7 +4,7 @@ A side-scrolling game featuring a dinosaur, developed using Flutter.
 
 ## Getting Started
 
-Run Project Clone the repository
+Run Project: Clone the repository
 ```
 https://github.com/amitamrutiya2210/dianoser_game
 ```
@@ -17,7 +17,7 @@ Run the app on an emulator or device
 flutter run
 ```
 
-1) Download the app from this this [link](https://drive.google.com/file/d/1ZacnnVEAYz_PgxroBwfKypR-Jc5Dq9wS/view?usp=sharing).
+1) Download the app from this this [link](https://drive.google.com/file/d/19hTBtfXWdnhmMPaVYDEaMJfde5tVDiIq/view?usp=sharing).
 2) Open the app on your android device.
 3) Start play by tap on screen.
 
@@ -33,8 +33,8 @@ flutter run
 - Hack Mode is avaliable 
 - Smooth animations and pixel art graphics
 
-# Support
+## Support
 If you have any issues or questions about the app, please contact us at amitamrutiya2210@gmail.com for assistance.
 
-# Demo of Project : 
+## Demo of Project : 
 https://user-images.githubusercontent.com/91112485/206857803-d5b4acb9-f906-4de0-8a9a-e95faa0ec52d.mp4
